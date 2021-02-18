@@ -3,4 +3,5 @@
 
 The signal from the ac-ac is at around 35 V peak-to-peak.
  
-!(image-of-circuit-with-acac)[./wip/ac-ac-adaptor-trace.png]
+
+![image-of-circuit-with-acac](./wip/ac-ac-adaptor-trace.png)
